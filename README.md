@@ -33,6 +33,10 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 ### PROCEDURE:
 
+4. Simulate the model for foeward kinematics.
+5. Plot the graph between the link and the joints.
+6. Update the DH parameters of the link configuration and end effector configuration.
+
 
 
 
