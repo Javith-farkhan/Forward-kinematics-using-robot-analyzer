@@ -44,43 +44,17 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 
 ### SIMULATION 
-![image]()
-
- 
- 
- 
- 
- 
- 
+![image](https://github.com/Javith-farkhan/Forward-kinematics-using-robot-analyzer/blob/main/4%20-%20DOF.png)
+![image](https://github.com/Javith-farkhan/Forward-kinematics-using-robot-analyzer/blob/main/6%20-%20DOF.png)
+![image](https://github.com/Javith-farkhan/Forward-kinematics-using-robot-analyzer/blob/main/4%20-DOF%20ee.png)
+![image](https://github.com/Javith-farkhan/Forward-kinematics-using-robot-analyzer/blob/main/6%20-%20DOF%20ee.png)
  
  ### PLOT 
+ ![image](https://github.com/Javith-farkhan/Forward-kinematics-using-robot-analyzer/blob/main/4%20-%20DOF%20graph.png)
+ ![image](https://github.com/Javith-farkhan/Forward-kinematics-using-robot-analyzer/blob/main/6%20-%20DOF%20graph.png)
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### RESULTS :  
+Thus we have analyzed  the forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer and polt the graph for link cordinates and joint angles
+
+
