@@ -51,7 +51,7 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  
  ### PLOT 
  ![image](https://github.com/Javith-farkhan/Forward-kinematics-using-robot-analyzer/blob/main/4%20-%20DOF%20graph.png)
- ![image]()
+ ![image](https://github.com/Javith-farkhan/Forward-kinematics-using-robot-analyzer/blob/main/6%20DOF%20EECODING.jpg)
  
 
 ### RESULTS :  
